@@ -1,2 +1,2 @@
-# mikescity.github.io
+# mikescity
 Mikes.City
